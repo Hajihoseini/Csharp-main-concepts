@@ -36,6 +36,7 @@ namespace Enumerated_type
             }
 
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
